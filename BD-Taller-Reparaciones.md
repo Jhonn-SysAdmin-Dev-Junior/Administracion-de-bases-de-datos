@@ -18,6 +18,9 @@ Este proyecto demuestra el diseño, implementación y manipulación de una base 
 | `03_consultas.sql`            | Consultas SQL (joins, filtros, agrupaciones)     |
 | `img/modelo-er.png`           | Diagrama entidad-relación                        |
 
+## 🗃️ <a href="https://drive.google.com/file/d/1F5UXi8OUWIH5r0dmW7J6WpP-VLP0qFTp/view?usp=sharing">¡Clic aqui para obtener el SQL!</a>
+
+
 ## 📊 Consultas incluidas
 
 - `UPDATE` y `DELETE` con integridad referencial
