@@ -26,7 +26,7 @@ Este proyecto demuestra el diseño, implementación y manipulación de una base 
 
 ### 🔁 `UPDATE` y `DELETE` con integridad referencial
 
-
+Modifica datos existentes como el correo electrónico de un cliente o la dirección de un proveedor usando `WHERE` para identificar el registro.
 <img src="imgs/updates-sentencia.png" width="600">
 
 
