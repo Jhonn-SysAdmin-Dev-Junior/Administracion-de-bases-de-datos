@@ -25,19 +25,27 @@ Este proyecto demuestra el diseño, implementación y manipulación de una base 
 
 - `UPDATE` y `DELETE` con integridad referencial
 
-<img src="img/event-viewer.png" width="600">
+<img src="imgs/update-sentencia.png" width="600">
+
+<img src="imgs/delete-sentencia.png" width="600">
 
 - `INNER`, `LEFT`, `RIGHT JOIN`
   
-<img src="img/event-viewer.png" width="600">
+<img src="imgs/inner-join.png" width="600">
 
-- `GROUP BY`, `HAVING`, `LIKE`, `WHERE`
+<img src="imgs/left.join.png" width="600">
 
-<img src="img/event-viewer.png" width="600">
+<img src="imgs/right-join.png" width="600">
+
+- `GROUP BY`,`LIKE`, `WHERE`
+
+<img src="imgs/group-by.png" width="600">
+
+<img src="imgs/where-like.png" width="600">
 
 ## 🧩 Modelo Entidad-Relación
 
-<img src="img/event-viewer.png" width="600">
+<img src="imgs/modelo-ER.png" width="600">
 
 ## ✅ Conclusión
 
