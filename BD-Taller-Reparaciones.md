@@ -68,7 +68,7 @@ Filtra registros con condiciones específicas, como emails que contienen `@examp
 
 Representación gráfica de las entidades, claves primarias, relaciones 1:N y 1:1, y las claves foráneas utilizadas en el diseño de la base de datos.
 
-<img src="imgs/modelo-ER.png" width="600">
+<img src="imgs/modelo-ER.png" width="700">
 
 ---
 
