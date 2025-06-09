@@ -26,8 +26,9 @@ Este proyecto demuestra el diseño, implementación y manipulación de una base 
 
 ### 🔁 `UPDATE` y `DELETE` con integridad referencial
 
-<img src="imgs/update-sentencia.png" width="600">
-Modifica datos existentes como el correo electrónico de un cliente o la dirección de un proveedor usando `WHERE` para identificar el registro.
+
+<img src="imgs/updates-sentencia.png" width="600">
+
 
 <img src="imgs/delete-sentencia.png" width="600">
 Elimina un cliente y, gracias al uso de claves foráneas con `ON DELETE CASCADE` o `SET NULL`, se gestionan correctamente sus relaciones dependientes (como sus vehículos o reparaciones).
